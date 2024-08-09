@@ -27,6 +27,8 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHANTHAKUR2004&show_icons=true&theme=radical)
+
+##Languages Used:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANTHAKUR2004&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak:
