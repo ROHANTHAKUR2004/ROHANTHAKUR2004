@@ -33,3 +33,7 @@
 ## 🔥 GitHub Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHANTHAKUR2004&theme=radical)](https://git.io/streak-stats)
 
+
+👁️ **Profile Views:**  
+![Profile Views](https://komarev.com/ghpvc/?username=ROHANTHAKUR2004&color=blueviolet&style=flat-square)
+
