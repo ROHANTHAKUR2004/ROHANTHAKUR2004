@@ -1,5 +1,5 @@
 
-### Hi there 👋, I’m @ROHANTHAKUR2004
+### Hi there 👋, I’m @ROHANTHAKUR
 
 - 👀 I’m interested in web development, especially working with React, Redux, and APIs.
 - 🌱 I’m currently learning backend development and improving my skills with various APIs 
