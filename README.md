@@ -26,9 +26,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ROHANTHAKUR2004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANTHAKUR2004&layout=compact&theme=radical)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ROHANTHAKUR2004&theme=radical)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROHANTHAKUR2004&theme=radical)
 
 ## 🔥 GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHANTHAKUR2004&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ROHANTHAKUR2004&theme=radical)](https://git.io/streak-stats)
+
