@@ -31,4 +31,4 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ROHANTHAKUR2004&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHANTHAKUR2004&theme=radical)](https://git.io/streak-stats) not showing githun stats and lanfuae and streak 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHANTHAKUR2004&theme=radical)](https://git.io/streak-stats)  
